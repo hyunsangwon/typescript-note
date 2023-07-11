@@ -1,1 +1,1 @@
-# typescript-note
+### typescript-note 23.07.11 ~ 😎
